@@ -2,7 +2,9 @@
 
 ## Set up
 `conda env create -f environment.yml`
+
 `conda activate spectral`
+
 `pip install -e.` to install this package in editable mode.
 
 ## Usage
